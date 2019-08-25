@@ -14,7 +14,7 @@ end
 
 def arr.names (Kofi, Ama)
   arr.names ("Human Being")
-  Human Being = Kofi 
+  Human Being = (Kofi, Ama) 
 end
 
 def arr.names(Kofi)
